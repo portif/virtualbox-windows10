@@ -1,0 +1,8 @@
+site_name: VirtualBox
+site_author: Jurandy Soares
+
+theme:
+  name: material
+  language: pt
+  # palette:
+  #   primary: green
