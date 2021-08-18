@@ -6,3 +6,14 @@ theme:
   language: pt
   # palette:
   #   primary: green
+
+
+nav:
+  - Início: index.md
+  - Acessar site: 1-acessar-site.md
+  - Downloads: 2-clicar-downloads.md
+  - Windows: 3-link-windows-hosts.md
+  - Mostrar na pasta: 4-mostrar-na-pasta.md
+  - Execução como instalador: 5-executar-como-administrador.md
+  - Instalação: 6-execucao-assistente-de-instalacao.md
+  - Tela inicial: 7-virtualbox-app.md
